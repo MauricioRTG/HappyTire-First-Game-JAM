@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Trail_MAT
+  m_Shader: {fileID: -6465566751694194690, guid: 1f9c1a705e3ec644a8ee9be36d66517e,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Boolean_5C363915: 1
+    - Vector1_EB9B8A3: 4
+    - Vector1_EC32100B: -2
+    - Vector1_EE5239A4: 10
+    m_Colors:
+    - Color_6BA16744: {r: 1, g: 0.989607, b: 0, a: 0}
+  m_BuildTextureStacks: []
