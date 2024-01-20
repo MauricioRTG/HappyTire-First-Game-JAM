@@ -9,8 +9,8 @@ As a software engineer, I developed a mobile game called HappyTire using Unity, 
 
 Contributions: 
 
-Design and proposed the gameplay loop in collaboration with art and programming members.
+-Design and propose the gameplay loop in collaboration with art and programming members.
 
-Camera movement.
+-Camera movement.
 
-Tire movement.
+-Tire movement.
